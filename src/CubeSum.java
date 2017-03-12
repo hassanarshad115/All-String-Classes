@@ -1,4 +1,4 @@
-
+     //import java.util.Scanner;
     import java.util.*;
 
     public class CubeSum {
@@ -12,7 +12,7 @@
             System.out.print("integer1: ");
             i1=scan.nextInt();
 
-            cube1 = (int)Math.pow(i1 ,3);
+            cube1 = (int)Math.pow(i1 ,2);
 
             System.out.print("integer2: ");
              i2=scan.nextInt();

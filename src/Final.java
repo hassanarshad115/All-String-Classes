@@ -9,6 +9,7 @@ public class Final {
     
         final int h=5;
         int i;
+        //through this way we icrement in final veriables
         i=h+1;
         System.out.println(i);
 
